@@ -24,7 +24,7 @@ No server required. No build pipeline. Just clean, portable HTML from your Markd
 
 ```bash
 # Clone the repository
-git clone https://github.com/kmaasrud/obsidian-hugo
+git clone https://github.com/kmaasrud/obsidian-html
 cd obsidian-hugo
 
 # Install the package
